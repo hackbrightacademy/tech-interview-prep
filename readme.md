@@ -11,11 +11,11 @@ tips on how to prepare, you're in the right place!
 
 ### Contents
 
-* [❓ How do these interviews work?](#-how-do-these-interviews-work)
-* [😎 Am I ready to book a technical interview?](#-am-i-ready-to-book-a-technical-interview)
-* [🔮 Where can I find practice questions?](#-where-can-i-find-practice-questions)
-    * [Our practice questions](#our-practice-questions)
-* [💡 Tips for a Successful Interview](#-tips-for-a-successful-interview)
+* [How do these interviews work?](#-how-do-these-interviews-work)
+* [Am I ready to book a technical interview?](#-am-i-ready-to-book-a-technical-interview)
+* [Where can I find practice questions?](#-where-can-i-find-practice-questions)
+  * [Our practice questions](#our-practice-questions)
+* [Tips for a Successful Interview](#-tips-for-a-successful-interview)
 
 ## ❓ How do these interviews work?
 
