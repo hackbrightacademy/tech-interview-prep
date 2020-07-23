@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://hackbrightacademy.com">
-    <img alt="Hackbright Academy Logo" src="images/hb-logo.png" width="100px">
+    <img alt="Hackbright Academy Logo" src="images/logo.png" width="100px">
   </a>
   </br>Hackbright Academy
 </h1>
