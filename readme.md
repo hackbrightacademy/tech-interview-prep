@@ -78,4 +78,4 @@ interview if you aren't able to solve these questions 😁.
 - Your interviewer wants to help you pass the interview. It may be helpful to
   think of them as a collaborator rather than a test proctor.
 - Technical interviews aren't like tests where you either pass or fail, so don't
-  worry if you falter or you
+  worry if you falter or you don't solve the challenge completely.
