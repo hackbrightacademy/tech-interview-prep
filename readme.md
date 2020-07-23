@@ -18,15 +18,15 @@ time where you're free, have access to the internet, and able to talk with
 someone on the phone.
 
 During the interview, you'll get a phone call from one of our friendly
-interviewers. You'll work with the interviewer to solve a code challenge.
-**You'll be able to use your language of choice** to solve the code challenge.
+interviewers. You'll work with the interviewer to solve a code challenge **in
+your programming language of choice** (you don't have to know Python yet!).
 
 Your interviewer will save some time at the end of the 30 min. where you can
 ask questions about the program 🤗
 
 ## Am I ready to book a technical interview?
 
-Checklist
+If you can do the following, you're probably ready to book an interview:
 
 - [ ] Have worked with strings, numbers (integers), and arrays/lists before
 - [ ] Can think of an example of when you'd use a while-loop and when you'd use
@@ -37,3 +37,45 @@ Checklist
 - [ ] Use conditional logic and loops to filter an array/list (ex.: "given a
   list of words, return all words that start with `'b'`")
 
+## Where can I find practice questions?
+
+There are lots of online resources with practice questions but it's difficult
+for us to vet the quality of those resources. So, while we can't recommend a
+particular resource, we *can* provide practice questions of our own.
+
+Be aware that these questions **are not representative** of the types of
+code challenges you'll *actually* encounter during the interview. Also, a code
+challenge can vary in difficulty from person to person — a question that you
+think is easy might be hard for someone else (and vice versa). So, we **can't
+guarantee that you'll pass the interview if you complete these questions.**
+The good news is that we also can't guarantee that you *won't* pass the
+interview if you aren't able to solve these questions 😁.
+
+#### Our practice questions
+
+- [Add All Numbers](add-all-nums)
+- [Get Words Starting with Vowels](get-words-starting-with-vowels)
+- [Find Locations of Even Numbers](find-evens)
+- [Find Longest Word](find-longest)
+- [More Evens or Odds?](more-evens-or-odds)
+
+## Tips for a Successful Interview
+
+- We conduct our interviews on [coderpad.io](https://coderpad.io/). It's similar
+  to sites like [repl.it](https://repl.it/), so we recommend checking both of
+  those out to familiarize yourself with the platform.
+- You won't be allowed to refer to notes or use outside resources (like Google)
+  to help you with syntax during the interview. If you're struggling with syntax
+  or don't know what to do next, don't worry! Just let the interviewer know and
+  they'll point you in the right direction.
+- Run your code often throughout the interview. Being a good programming means
+  being a good debugger, so don't be afraid to read error messages carefully.
+- Your interviewer will understand how nerve-wracking it can be to program
+  in front of someone. It happens to everyone, no matter how experienced they
+  are. If you draw a blank or get stuck, that's okay! Use this as an
+  opportunity to communicate effectively about what you do understand and
+  what you don't understand.
+- Your interviewer wants to help you pass the interview. It may be helpful to
+  think of them as a collaborator rather than a test proctor.
+- Technical interviews aren't like tests where you either pass or fail, so don't
+  worry if you falter or you
