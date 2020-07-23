@@ -6,9 +6,9 @@ return `'odd'`. If there's a tie, return `'even and odd'`.
 
 ## Solutions
 
+- [Python](more_evens_or_odds.py)
+
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We
   welcome your pull requests :)
 </sub>
-
-- [Python](more_evens_or_odds.py)

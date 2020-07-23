@@ -13,9 +13,9 @@ For example:
 
 ## Solutions
 
+- [Python](add_nums.py)
+
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We
   welcome your pull requests :)
 </sub>
-
-- [Python](add_nums.py)

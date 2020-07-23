@@ -15,9 +15,9 @@ For example:
 
 ## Solutions
 
+- [Python](find_evens.py)
+
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We
   welcome your pull requests :)
 </sub>
-
-- [Python](find_evens.py)

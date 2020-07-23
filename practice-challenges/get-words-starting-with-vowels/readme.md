@@ -16,9 +16,9 @@ For example:
 
 ## Solutions
 
+- [Python](get_vowel_words.py)
+
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We
   welcome your pull requests :)
 </sub>
-
-- [Python](get_vowel_words.py)

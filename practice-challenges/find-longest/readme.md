@@ -17,9 +17,9 @@ For example:
 
 ## Solutions
 
+- [Python](find_longest.py)
+
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We
   welcome your pull requests :)
 </sub>
-
-- [Python](find_longest.py)
