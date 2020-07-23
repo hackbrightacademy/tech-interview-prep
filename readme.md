@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://hackbrightacademy.com">
-    <img alt="Hackbright Academy Ladies" src="images/hb-logo.png" width="200px">
+    <img alt="Hackbright Academy Logo" src="images/hb-logo.png" width="100px">
   </a>
   </br>Hackbright Academy
 </h1>
