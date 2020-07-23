@@ -53,11 +53,11 @@ interview if you aren't able to solve these questions 😁.
 
 #### Our practice questions
 
-- [Add All Numbers](add-all-nums)
-- [Get Words Starting with Vowels](get-words-starting-with-vowels)
-- [Find Locations of Even Numbers](find-evens)
-- [Find Longest Word](find-longest)
-- [More Evens or Odds?](more-evens-or-odds)
+- [Add All Numbers](practice-challenges/add-all-nums)
+- [Get Words Starting with Vowels](practice-challenges/get-words-starting-with-vowels)
+- [Find Locations of Even Numbers](practice-challenges/find-evens)
+- [Find Longest Word](practice-challenges/find-longest)
+- [More Evens or Odds?](practice-challenges/more-evens-or-odds)
 
 ## Tips for a Successful Interview
 
