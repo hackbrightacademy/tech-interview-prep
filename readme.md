@@ -9,6 +9,14 @@
 If you want to learn how our technical admissions interviews work or you'd like
 tips on how to prepare, you're in the right place!
 
+<sub>
+  👋
+  Did you stumble onto this page randomly and have no idea what we're talking
+  about? <b>Then you should go to <a href="https://hackbrightacademy.com/software-engineering-program/">
+  click here to go to hackbrightacademy.com and learn more about our Software Engineering
+  Program</a>!</b>
+</sub>
+
 ### Contents
 
 * [How do these interviews work?](#-how-do-these-interviews-work)
