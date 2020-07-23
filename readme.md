@@ -11,7 +11,13 @@ tips on how to prepare, you're in the right place!
 
 ### Contents
 
-## How do these interviews work?
+* [❓ How do these interviews work?](#-how-do-these-interviews-work)
+* [😎 Am I ready to book a technical interview?](#-am-i-ready-to-book-a-technical-interview)
+* [🔮 Where can I find practice questions?](#-where-can-i-find-practice-questions)
+    * [Our practice questions](#our-practice-questions)
+* [💡 Tips for a Successful Interview](#-tips-for-a-successful-interview)
+
+## ❓ How do these interviews work?
 
 Our interviews are about **30 min. long**, so you should set aside 30 min. of
 time where you're free, have access to the internet, and able to talk with
@@ -24,7 +30,7 @@ your programming language of choice** (you don't have to know Python yet!).
 Your interviewer will save some time at the end of the 30 min. where you can
 ask questions about the program 🤗
 
-## Am I ready to book a technical interview?
+## 😎 Am I ready to book a technical interview?
 
 If you can do the following, you're probably ready to book an interview:
 
@@ -37,7 +43,7 @@ If you can do the following, you're probably ready to book an interview:
 - [ ] Use conditional logic and loops to filter an array/list (ex.: "given a
   list of words, return all words that start with `'b'`")
 
-## Where can I find practice questions?
+## 🔮 Where can I find practice questions?
 
 There are lots of online resources with practice questions but it's difficult
 for us to vet the quality of those resources. So, while we can't recommend a
@@ -59,7 +65,7 @@ interview if you aren't able to solve these questions 😁.
 - [Find Longest Word](practice-challenges/find-longest)
 - [More Evens or Odds?](practice-challenges/more-evens-or-odds)
 
-## Tips for a Successful Interview
+## 💡 Tips for a Successful Interview
 
 - We conduct our interviews on [coderpad.io](https://coderpad.io/). It's similar
   to sites like [repl.it](https://repl.it/), so we recommend checking both of
