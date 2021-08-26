@@ -7,6 +7,7 @@ return `'odd'`. If there's a tie, return `'even and odd'`.
 ## Solutions
 
 - [Python](more_evens_or_odds.py)
+- [JavaScript](more-evens-or-odds.js)
 
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We
