@@ -1,9 +1,9 @@
 /* Solution for Add All Numbers. */
 
 function addNumbers(nums) {
-  let total = 0
+  let total = 0;
   for (let num of nums) {
-    total += num
+    total += num;
   }
 
   return total;
