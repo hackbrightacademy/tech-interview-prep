@@ -6,7 +6,7 @@ all the numbers in the list.
 For example:
 
 ```
-[1, 1, 1] => 3
+[1, 1, 1] => 1 + 1 + 1 => 3
 
 [] => 0
 ```
@@ -14,6 +14,7 @@ For example:
 ## Solutions
 
 - [Python](add_nums.py)
+- [JavaScript](addNums.js)
 
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We

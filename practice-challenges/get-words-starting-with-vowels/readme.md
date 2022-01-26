@@ -9,14 +9,15 @@ it makes for a great bonus challenge).
 For example:
 
 ```
-['elephant', 'hello', 'octopus'] => ['elephant', 'octopus']
+["elephant", "hello", "octopus"] => ['elephant', 'octopus']
 
-['hi', 'meow', 'yay'] => []
+["hi", "meow", "yay"] => []
 ```
 
 ## Solutions
 
 - [Python](get_vowel_words.py)
+- [JavaScript](getVowelWords.js)
 
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We

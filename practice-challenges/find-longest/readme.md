@@ -8,16 +8,17 @@ If there's a tie, return the word that appears earliest.
 For example:
 
 ```
-['boo', 'a', 'I', 'hi'] => 'boo'
+["boo", "a", "I", "hi"] => 'boo'
 
-['one', 'two', 'superduper', 'dog'] => 'superduper'
+["one", "two", "superduper", "dog"] => 'superduper'
 
-['hello', 'world'] => 'hello'
+["hello", "world"] => 'hello'
 ```
 
 ## Solutions
 
 - [Python](find_longest.py)
+- [JavaScript](findLongest.js)
 
 <sub>
   Wanna contribute a solution in your favorite language? Go ahead! We

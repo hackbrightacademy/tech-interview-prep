@@ -19,11 +19,11 @@ tips on how to prepare, you're in the right place!
 
 ### Contents
 
-* [How do these interviews work?](#-how-do-these-interviews-work)
-* [Am I ready to book a technical interview?](#-am-i-ready-to-book-a-technical-interview)
-* [Where can I find practice questions?](#-where-can-i-find-practice-questions)
-  * [Our practice questions](#our-practice-questions)
-* [Tips for a Successful Interview](#-tips-for-a-successful-interview)
+- [❓ How do these interviews work?](#-how-do-these-interviews-work)
+- [😎 Am I ready to book a technical interview?](#-am-i-ready-to-book-a-technical-interview)
+- [🔮 Where can I find practice questions?](#-where-can-i-find-practice-questions)
+    - [Our practice questions](#our-practice-questions)
+- [💡 Tips for a Successful Interview](#-tips-for-a-successful-interview)
 
 ## ❓ How do these interviews work?
 
@@ -69,7 +69,6 @@ interview if you aren't able to solve these questions 😁.
 
 - [Add All Numbers](practice-challenges/add-all-nums)
 - [Get Words Starting with Vowels](practice-challenges/get-words-starting-with-vowels)
-- [Find Locations of Even Numbers](practice-challenges/find-evens)
 - [Find Longest Word](practice-challenges/find-longest)
 - [More Evens or Odds?](practice-challenges/more-evens-or-odds)
 
