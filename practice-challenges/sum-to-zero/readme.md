@@ -1,8 +1,8 @@
 # Sum to Zero
 
 Write a function that takes in a list of numbers. Return `True` if any two
- nums in the list sum to 0. Otherwise, return `False`. For this problem,
-assume that there are no 0s in the list
+nums in the list sum to 0. Otherwise, return `False`. For this problem,
+assume that there are no 0s in the list.
 
 For example:
 ```
