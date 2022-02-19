@@ -1,4 +1,4 @@
-"""Solution to Remove Duplicates"""
+"""Python solution to Remove Duplicates"""
 
 def remove_dupes(numbers):
     """Return new list of numbers with duplicates removed."""

@@ -1,4 +1,4 @@
-"""Solution to Replace Vowels"""
+"""Python solution to Replace Vowels"""
 
 def replace_vowels(chars):
     """Given list of chars, return a list with vowels replaced by '*'."""
@@ -8,6 +8,7 @@ def replace_vowels(chars):
             chars[i] = "*"
     
     return chars
+
 
 # Test with sample input
 print(replace_vowels(['h', 'i']))

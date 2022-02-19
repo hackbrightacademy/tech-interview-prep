@@ -18,7 +18,7 @@ For example:
 
 ## Solutions
 
-- [Python](remove-duplicates.py)
+- [Python](remove_duplicates.py)
 - [JavaScript](removeDuplicates.js)
 
 <sub>

@@ -1,4 +1,4 @@
-// Solution for Show Even Numbers' Indices
+// JavaScript solution for Show Even Numbers' Indices
 
 function showEvenIndices(nums) {
     // Given array of ints, return array of *indices* of even numbers in array.

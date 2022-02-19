@@ -1,4 +1,4 @@
-// Solution to Replace Vowels
+// JavaScript solution to Replace Vowels
 
 function replaceVowels(chars) {
     // Given list of chars, return a list with vowels replaced by '*'.

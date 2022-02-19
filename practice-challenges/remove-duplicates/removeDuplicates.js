@@ -1,4 +1,4 @@
-// Solution to Remove Duplicates
+//JavaScript solution to Remove Duplicates
 
 function removeDupes(numbers) {
     // Return new list of numbers with duplicates removed.
@@ -13,6 +13,7 @@ function removeDupes(numbers) {
 
     return result;
 }
+
 
 // Test with sample input
 console.log(removeDupes([5, 5, 5]))

@@ -1,4 +1,4 @@
-"""Solution for Show Even Numbers' Indices"""
+"""Python solution for Show Even Numbers' Indices"""
 
 def show_even_indices(nums):
     """Given list of ints, return list of *indices* of even numbers in list."""
@@ -10,6 +10,7 @@ def show_even_indices(nums):
             indices.append(i)
 
     return indices
+
 
 # Test with sample input
 print(show_even_indices([2, 4, 6, 8]))
@@ -31,7 +32,8 @@ def show_even_alternative(nums):
     
     return indices
 
-# Test against sample input
+
+# Test with sample input
 print(show_even_alternative([2, 4, 6, 8]))
 print(show_even_alternative([1, 2, 3, 4, 6, 8]))
 print(show_even_alternative([7, 3, 11]))

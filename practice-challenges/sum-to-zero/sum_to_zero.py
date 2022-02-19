@@ -1,4 +1,4 @@
-"""Solution for Sum to Zero"""
+"""Python solution for Sum to Zero"""
 
 def sum_to_zero(numbers):
     """Given list of ints, return True if any two nums sum to 0."""
@@ -11,6 +11,7 @@ def sum_to_zero(numbers):
             return True
 
     return False
+
 
 # Test with sample input
 print(sum_to_zero([2, 1, 6]))

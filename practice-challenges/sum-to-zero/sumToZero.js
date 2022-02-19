@@ -1,4 +1,4 @@
-/* Solution for Sum To Zero. */
+/* JavaScript solution for Sum To Zero. */
 
 function sumToZero(numbers) {
     // It's easier and faster to look for -num in the list, rather than

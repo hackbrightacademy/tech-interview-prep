@@ -19,7 +19,7 @@ For example:
 
 ## Solutions
 
-- [Python](replace-vowels.py)
+- [Python](replace_vowels.py)
 - [JavaScript](replaceVowels.js)
 
 <sub>
