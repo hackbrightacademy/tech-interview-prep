@@ -14,7 +14,7 @@ function showEvenIndices(nums) {
     return indices
 }
 
-// Test against sample input
+// Test with sample input
 console.log(showEvenIndices([2, 4, 6, 8]))
 console.log(showEvenIndices([1, 2, 3, 4, 6, 8]))
 console.log(showEvenIndices([7, 3, 11]))

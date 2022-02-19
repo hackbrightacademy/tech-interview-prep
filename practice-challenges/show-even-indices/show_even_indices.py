@@ -11,7 +11,7 @@ def show_even_indices(nums):
 
     return indices
 
-# Test against sample input
+# Test with sample input
 print(show_even_indices([2, 4, 6, 8]))
 print(show_even_indices([1, 2, 3, 4, 6, 8]))
 print(show_even_indices([7, 3, 11]))

@@ -13,7 +13,7 @@ function sumToZero(numbers) {
 
 }
 
-// Test against sample input
+// Test with sample input
 console.log(sumToZero([2, 1, 6]))
 console.log(sumToZero([5]))
 console.log(sumToZero([8, 2, 3, -2]))

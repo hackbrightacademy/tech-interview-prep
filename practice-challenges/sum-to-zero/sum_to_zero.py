@@ -12,7 +12,7 @@ def sum_to_zero(numbers):
 
     return False
 
-# Test against sample input
+# Test with sample input
 print(sum_to_zero([2, 1, 6]))
 print(sum_to_zero([8, 2, 3, -2]))
 print(sum_to_zero([5]))
