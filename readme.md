@@ -68,14 +68,19 @@ interview if you aren't able to solve these questions 😁.
 #### Our practice questions
 
 - [Add All Numbers](practice-challenges/add-all-nums)
+- [Find Longest Word](practice-challenges/find-longest/)
 - [Get Words Starting with Vowels](practice-challenges/get-words-starting-with-vowels)
 - [Find Longest Word](practice-challenges/find-longest)
 - [More Evens or Odds?](practice-challenges/more-evens-or-odds)
+- [Remove Duplicates](practice-challenges/remove-duplicates/)
+- [Replace Vowels](practice-challenges/replace-vowels/)
+- [Show Even Indices](practice-challenges/show-even-indices/)
+- And more questions [here](practice-challenges)
 
 ## 💡 Tips for a Successful Interview
 
 - We conduct our interviews on [coderpad.io](https://coderpad.io/). It's similar
-  to sites like [repl.it](https://repl.it/), so we recommend checking both of
+  to sites like [replit.com](https://replit.com/), so we recommend checking both of
   those out to familiarize yourself with the platform.
 - You won't be allowed to refer to notes or use outside resources (like Google)
   to help you with syntax during the interview. If you're struggling with syntax
