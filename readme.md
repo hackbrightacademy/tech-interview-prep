@@ -79,9 +79,9 @@ interview if you aren't able to solve these questions 😁.
 
 ## 💡 Tips for a Successful Interview
 
-- We conduct our interviews on [coderpad.io](https://coderpad.io/). It's similar
-  to sites like [replit.com](https://replit.com/), so we recommend checking both of
-  those out to familiarize yourself with the platform.
+- We conduct our interviews on a site similar to [replit.com](https://replit.com/).
+  Since replit.com is free, we recommend taking some time to familiarize yourself
+  with the platform.
 - You won't be allowed to refer to notes or use outside resources (like Google)
   to help you with syntax during the interview. If you're struggling with syntax
   or don't know what to do next, don't worry! Just let the interviewer know and
@@ -95,5 +95,8 @@ interview if you aren't able to solve these questions 😁.
   what you don't understand.
 - Your interviewer wants to help you pass the interview. It may be helpful to
   think of them as a collaborator rather than a test proctor.
-- Technical interviews aren't like tests where you either pass or fail, so don't
-  worry if you falter or you don't solve the challenge completely.
+- Technical interviews help you and us determine whether you are ready to take
+  on the challenges of our Software Engineering course. In order to get the most
+  out of our program, we need to make sure you are comfortable with certain
+  programming basics including: basic data types (strings, integers, booleans,
+  lists), conditional logic, looping, and functions.
