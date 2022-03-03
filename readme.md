@@ -99,7 +99,7 @@ interview if you aren't able to solve these questions 😁.
   on the challenges of our Software Engineering course. In order to get the most
   out of our program, we need to make sure you are comfortable with certain
   programming basics including: basic data types (strings, integers, booleans,
-  lists), conditional logic, looping, and functions.
+  lists), conditional logic, indexing, looping, and functions.
 - If you don't pass the interview on your first try, don't panic! We'll provide
   feedback on where you can improve and discuss a timeline for when you can
   reinterview.
