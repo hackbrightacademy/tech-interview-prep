@@ -53,17 +53,21 @@ If you can do the following, you're probably ready to book an interview:
 
 ## 🔮 Where can I find practice questions?
 
-There are lots of online resources with practice questions but it's difficult
-for us to vet the quality of those resources. So, while we can't recommend a
-particular resource, we *can* provide practice questions of our own.
+There are lots of online resources with practice questions, which vary in
+quality and relevance. To help give you a sense of what to look for, we have
+collected some problems for you below. Most are written by Hackbright and a
+few are selected challenges from other resources.
 
-Be aware that these questions **are not representative** of the types of
-code challenges you'll *actually* encounter during the interview. Also, a code
-challenge can vary in difficulty from person to person — a question that you
-think is easy might be hard for someone else (and vice versa). So, we **can't
-guarantee that you'll pass the interview if you complete these questions.**
-The good news is that we also can't guarantee that you *won't* pass the
-interview if you aren't able to solve these questions 😁.
+You won't encounter these *exact* questions in our interviews. However, we 
+recommend them so that you can practice "algorithmic thinking" and
+problem-solving with code. Working through these questions should help you
+gauge how comfortable you feel recalling and applying programming basics. 
+ 
+Keep in mind that code challenges can vary in difficulty from person to person
+— a question that you think is easy might be hard for someone else (and vice
+versa). So while we can't make any guarantees, if you are able to solve
+problems similar to the ones below, there's a good chance you'll do well in our
+interview. 
 
 #### Our practice questions
 
@@ -79,9 +83,9 @@ interview if you aren't able to solve these questions 😁.
 
 ## 💡 Tips for a Successful Interview
 
-- We conduct our interviews on [coderpad.io](https://coderpad.io/). It's similar
-  to sites like [replit.com](https://replit.com/), so we recommend checking both of
-  those out to familiarize yourself with the platform.
+- We conduct our interviews on a site similar to [replit.com](https://replit.com/).
+  Since replit.com is free, we recommend taking some time to familiarize yourself
+  with the platform.
 - You won't be allowed to refer to notes or use outside resources (like Google)
   to help you with syntax during the interview. If you're struggling with syntax
   or don't know what to do next, don't worry! Just let the interviewer know and
@@ -95,5 +99,11 @@ interview if you aren't able to solve these questions 😁.
   what you don't understand.
 - Your interviewer wants to help you pass the interview. It may be helpful to
   think of them as a collaborator rather than a test proctor.
-- Technical interviews aren't like tests where you either pass or fail, so don't
-  worry if you falter or you don't solve the challenge completely.
+- Technical interviews help you and us determine whether you are ready to take
+  on the challenges of our Software Engineering course. In order to get the most
+  out of our program, we need to make sure you are comfortable with certain
+  programming basics including: basic data types (strings, integers, booleans,
+  lists), conditional logic, indexing, looping, and functions.
+- If you don't pass the interview on your first try, don't panic! We'll provide
+  feedback on where you can improve and discuss a timeline for when you can
+  reinterview.
