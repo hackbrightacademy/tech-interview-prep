@@ -53,17 +53,21 @@ If you can do the following, you're probably ready to book an interview:
 
 ## 🔮 Where can I find practice questions?
 
-There are lots of online resources with practice questions but it's difficult
-for us to vet the quality of those resources. So, while we can't recommend a
-particular resource, we *can* provide practice questions of our own.
+There are lots of online resources with practice questions, which vary in
+quality and relevance. To help give you a sense of what to look for, we have
+collected some problems for you below. Most are written by Hackbright and a
+few are selected challenges from other resources.
 
-Be aware that these questions **are not representative** of the types of
-code challenges you'll *actually* encounter during the interview. Also, a code
-challenge can vary in difficulty from person to person — a question that you
-think is easy might be hard for someone else (and vice versa). So, we **can't
-guarantee that you'll pass the interview if you complete these questions.**
-The good news is that we also can't guarantee that you *won't* pass the
-interview if you aren't able to solve these questions 😁.
+You won't encounter these *exact* questions in our interviews. However, we 
+recommend them so that you can practice "algorithmic thinking" and
+problem-solving with code. Working through these questions should help you
+gauge how comfortable you feel recalling and applying programming basics. 
+ 
+Keep in mind that code challenges can vary in difficulty from person to person
+— a question that you think is easy might be hard for someone else (and vice
+versa). So while we can't make any guarantees, if you are able to solve
+problems similar to the ones below, there's a good chance you'll do well in our
+interview. 
 
 #### Our practice questions
 
